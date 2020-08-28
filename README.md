@@ -10,3 +10,7 @@ I also have added batch file that I use for launching jupyter notebook via circl
 # VirtualBox
 
 ![alt text](https://github.com/Reghunaath/Circle-Launcher-icons/raw/master/Virtualbox.png)
+
+# Amazon Music
+
+![alt text](https://github.com/Reghunaath/Circle-Launcher-icons/raw/master/amazon-music.png)
