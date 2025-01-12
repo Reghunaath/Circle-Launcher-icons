@@ -15,6 +15,6 @@ I also have added batch file that I use for launching jupyter notebook via circl
 
 ![alt text](https://github.com/Reghunaath/Circle-Launcher-icons/raw/master/amazon-music.png)
 
-# Amazon Music
+# VS Code
 
 ![alt text](https://github.com/Reghunaath/Circle-Launcher-icons/raw/master/vs.png)
